@@ -15,9 +15,7 @@
  */
 
 define('WP_REDIS_HOST', 'wordpress.daicyh.0001.euw1.cache.amazonaws.com');
- 
-define('WP_HOME','http://wordpress-304989947.eu-west-1.elb.amazonaws.com');
-define('WP_SITEURL','http://wordpress-304989947.eu-west-1.elb.amazonaws.com');
+
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -47,14 +45,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'po*ny*RZB+ gz-rg[IK;9g02tClz&$4bQI!Ra M/wm,|45Ufq,d-%:+m)(1Qs-Uq');
+define('SECURE_AUTH_KEY',  '`X( p%8=&.xPi:9cl9FY.Jpu:Bddyr8KQi~2(6(smd=Tt+fee{z9ulK|L.oY^9?#');
+define('LOGGED_IN_KEY',    'Rxd_PK6d?-t&Gksm[]u-f]`8*NQD/R]?O(kP36guQFx&Pa^Wu`=(5nsC<o,dE{-5');
+define('NONCE_KEY',        'FPK9@[`vRQ>7?Jy-@I{@u?ikE};SLXO-V|ih7f?[^q~@F)[O-U]?q3%I4UI] UL8');
+define('AUTH_SALT',        'L#I01Ff`P)0ej;52>%PprmZXE?|wflua80wn>9-zd}E,>o^FT@r,+2@CyHa|0l2y');
+define('SECURE_AUTH_SALT', ']k-ALU,@=_RFDL+K8&K^RT32Z?J)PWj[1Cm~K^pwt-3mnT*#,,%vq=d+t=rS4gPC');
+define('LOGGED_IN_SALT',   'VCHGQUd,aY+&5{;gjY&g%#EQAHY87#`Y2XI(JZe1gu=DwNn,WP--V/tdy[l[oy),');
+define('NONCE_SALT',       '.T>P-9{*s+>^3:N(ly[Pb$I1Q-@juz@65S,JW~?MKNHO  B`b4a;PWsj#Sn$#g[)');
 
 /**#@-*/
 
